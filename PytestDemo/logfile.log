@@ -1,0 +1,35 @@
+
+2023-02-04 00:32:18,278 :INFO :test_editProfile :('Manish', 'Kumar', 'rahulshettyacademy.com')
+2023-02-04 00:32:18,278 :INFO :test_editProfile :Manish
+2023-02-04 00:32:18,278 :INFO :test_editProfile :rahulshettyacademy.com
+2023-02-04 19:55:06,791 :INFO :test_editProfile :('Manish', 'Kumar', 'rahulshettyacademy.com')
+2023-02-04 19:55:06,791 :INFO :test_editProfile :Manish
+2023-02-04 19:55:06,791 :INFO :test_editProfile :rahulshettyacademy.com
+2023-02-04 19:55:06,801 :DEBUG :PytestDemo.test_logging :A debug statement is executed
+2023-02-04 19:55:06,802 :INFO :PytestDemo.test_logging :Information Statement
+2023-02-04 19:55:06,802 :WARNING :PytestDemo.test_logging :Somthing is in warring mode
+2023-02-04 19:55:06,802 :ERROR :PytestDemo.test_logging :A major error has happend
+2023-02-04 19:55:06,803 :CRITICAL :PytestDemo.test_logging :Critical issue
+2023-02-04 20:01:34,694 :INFO :test_editProfile :('Manish', 'Kumar', 'rahulshettyacademy.com')
+2023-02-04 20:01:34,694 :INFO :test_editProfile :Manish
+2023-02-04 20:01:34,694 :INFO :test_editProfile :rahulshettyacademy.com
+2023-02-04 20:01:34,705 :DEBUG :PytestDemo.test_logging :A debug statement is executed
+2023-02-04 20:01:34,705 :INFO :PytestDemo.test_logging :Information Statement
+2023-02-04 20:01:34,705 :WARNING :PytestDemo.test_logging :Somthing is in warring mode
+2023-02-04 20:01:34,705 :ERROR :PytestDemo.test_logging :A major error has happend
+2023-02-04 20:01:34,705 :CRITICAL :PytestDemo.test_logging :Critical issue
+2023-02-04 20:51:39,581 :INFO :test_editProfile :('Manish', 'Kumar', 'rahulshettyacademy.com')
+2023-02-04 20:51:39,581 :INFO :test_editProfile :Manish
+2023-02-04 20:51:39,581 :INFO :test_editProfile :rahulshettyacademy.com
+2023-02-04 20:52:38,775 :INFO :test_editProfile :rahulshettyacademy.com
+2023-02-04 20:53:44,795 :INFO :test_editProfile :Manish
+2023-02-04 20:53:44,795 :INFO :test_editProfile :rahulshettyacademy.com
+2023-02-04 20:55:10,843 :INFO :test_editProfile :('Manish', 'Kumar', 'rahulshettyacademy.com')
+2023-02-04 20:55:10,843 :INFO :test_editProfile :Manish
+2023-02-04 20:55:10,843 :INFO :test_editProfile :rahulshettyacademy.com
+2023-03-06 23:04:50,219 :INFO :test_editProfile :('Manish', 'Kumar', 'rahulshettyacademy.com')
+2023-03-06 23:04:50,219 :INFO :test_editProfile :Manish
+2023-03-06 23:04:50,219 :INFO :test_editProfile :rahulshettyacademy.com
+2023-03-06 23:37:58,825 :INFO :test_editProfile :('Manish', 'Kumar', 'rahulshettyacademy.com')
+2023-03-06 23:37:58,826 :INFO :test_editProfile :Manish
+2023-03-06 23:37:58,826 :INFO :test_editProfile :rahulshettyacademy.com
